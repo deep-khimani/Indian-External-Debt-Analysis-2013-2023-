@@ -41,7 +41,7 @@ It explores **debt trends** and **key financial ratios** through a combination o
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/deep-khimani/Indian-External-Debt-Analysis-2013-2023-.git
 ```
 
 2. **Install dependencies**
